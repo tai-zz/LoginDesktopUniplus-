@@ -1,2 +1,30 @@
-# LoginDesktopUniplus-
-Aplicação desktop baseada em interface web que permite instalação local e autenticação de usuários diretamente pelo sistema. O projeto explora a integração entre tecnologias web e ambiente desktop, oferecendo uma experiência prática, rápida e acessível.
+💻 Aplicação Desktop com Interface Web
+📌 Sobre o projeto
+
+Esta aplicação consiste em um sistema desktop com interface web que permite ao usuário realizar a instalação local e efetuar login diretamente pelo aplicativo.
+
+O objetivo do projeto é integrar a praticidade das aplicações web com a experiência de uso de um software desktop, proporcionando uma navegação simples, rápida e eficiente.
+
+🚀 Funcionalidades
+✔️ Instalação local da aplicação
+🔐 Sistema de login integrado
+🌐 Interface baseada em tecnologias web
+⚡ Execução direta no ambiente desktop
+
+🛠️ Tecnologias utilizadas
+HTML
+JavaScript
+
+▶️ Como executar o projeto
+
+# Acesse a pasta do projeto
+Extraia o winrar uniplusweb
+Execute o arquivo Uniplus Acesso Setup 1.0.0
+
+🎯 Objetivo
+
+Este projeto foi desenvolvido com foco em aprendizado e prática, explorando a integração entre aplicações web e desktop, além de reforçar conceitos de autenticação e estrutura de sistemas.
+
+📸 Demonstração
+
+<img width="885" height="492" alt="image" src="https://github.com/user-attachments/assets/7c3878e7-a241-42f1-a1c5-290991499c6f" />
