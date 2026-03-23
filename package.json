@@ -1,0 +1,22 @@
+{
+  "name": "uniplus-acesso",
+  "version": "1.0.0",
+  "description": "Aplicativo desktop de acesso Uniplus",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "devDependencies": {
+    "electron": "^30.0.0",
+    "electron-builder": "^26.7.0"
+  },
+  "build": {
+    "appId": "br.com.uniplus.acesso",
+    "productName": "Uniplus Acesso",
+    "win": {
+      "icon": "icon.ico",
+      "target": "nsis"
+    }
+  }
+}

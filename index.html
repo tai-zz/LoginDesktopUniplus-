@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <base href="https://uniplusweb-acesso.intelidata.inf.br/">
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Uniplus - Acesso</title>
+
+  <!-- Script externo do sistema -->
+  <script
+    type="text/javascript"
+    src="https://uniplusweb-acesso.intelidata.inf.br/access-web-comp.js">
+  </script>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      min-height: 450px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #f5f5f5;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+
+    card-component {
+      width: 600px !important;
+      max-width: 90vw !important;
+    }
+
+    /* Força visual quadrado */
+    card-component,
+    card-component *,
+    card-component button,
+    card-component input,
+    card-component div {
+      border-radius: 0 !important;
+    }
+  </style>
+</head>
+
+<body>
+  <card-component largura="100"></card-component>
+
+  <script>
+    // Fundo local (não conflita com base href)
+    const origin = window.location.origin;
+    document.body.style.backgroundImage = `url('${origin}/fundo-uniplus.png')`;
+  </script>
+</body>
+</html>
