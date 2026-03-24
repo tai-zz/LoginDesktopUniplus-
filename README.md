@@ -1,6 +1,8 @@
 💻 Aplicação Desktop com Interface Web
 📌 Sobre o projeto
 
+Link para dowload e execução direta na maquina: https://drive.google.com/file/d/1eDLbHexctZP_NZV6wfo8_pezSLPA1el8/view?usp=sharing
+
 Esta aplicação consiste em um sistema desktop com interface web que permite ao usuário realizar a instalação local e efetuar login diretamente pelo aplicativo.
 
 O objetivo do projeto é integrar a praticidade das aplicações web com a experiência de uso de um software desktop, proporcionando uma navegação simples, rápida e eficiente.
