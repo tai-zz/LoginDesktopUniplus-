@@ -1,7 +1,13 @@
 💻 Aplicação Desktop com Interface Web
+📌 Atualizações
+
+✔️Interface para contato com botões flutuantes.
+✔️Ajuste de imagem para login.
+
+
 📌 Sobre o projeto
 
-Link para dowload e execução direta na maquina: https://drive.google.com/file/d/1eDLbHexctZP_NZV6wfo8_pezSLPA1el8/view?usp=sharing
+Link para dowload e execução direta na maquina: https://drive.google.com/file/d/10siPTPr4NT6WzLnry0-syCuyoNLaYYB2/view?usp=sharing
 
 Esta aplicação consiste em um sistema desktop com interface web que permite ao usuário realizar a instalação local e efetuar login diretamente pelo aplicativo.
 
